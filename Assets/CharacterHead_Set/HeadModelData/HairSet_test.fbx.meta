@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 090628a7a226910458d107bee0b79224
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: face_T5
+    100002: hair_b
+    100004: hair_c
+    100006: HairB_HeadVeryShort
+    100008: //RootNode
+    100010: face_T6
+    100012: face_T7
+    100014: HairB_HeadVeryShort1
+    100016: HairB_HeadVeryShort2
+    100018: pCylinder1
+    100020: HairB_AllBack
+    100022: HairB_PigTailA
+    100024: HairB_PigTailA_1
+    100026: HairB_PigTailB
+    100028: HairB_PigTailB_1
+    100030: HairB_PigTailB_2
+    400000: face_T5
+    400002: hair_b
+    400004: hair_c
+    400006: HairB_HeadVeryShort
+    400008: //RootNode
+    400010: face_T6
+    400012: face_T7
+    400014: HairB_HeadVeryShort1
+    400016: HairB_HeadVeryShort2
+    400018: pCylinder1
+    400020: HairB_AllBack
+    400022: HairB_PigTailA
+    400024: HairB_PigTailA_1
+    400026: HairB_PigTailB
+    400028: HairB_PigTailB_1
+    400030: HairB_PigTailB_2
+    2100000: hair_uv
+    2300000: face_T5
+    2300002: hair_b
+    2300004: hair_c
+    2300006: HairB_HeadVeryShort
+    2300008: face_T6
+    2300010: face_T7
+    2300012: HairB_HeadVeryShort1
+    2300014: HairB_HeadVeryShort2
+    2300016: pCylinder1
+    2300018: HairB_AllBack
+    2300020: HairB_PigTailA
+    2300022: HairB_PigTailA_1
+    2300024: HairB_PigTailB
+    2300026: HairB_PigTailB_1
+    2300028: HairB_PigTailB_2
+    3300000: face_T5
+    3300002: hair_b
+    3300004: hair_c
+    3300006: HairB_HeadVeryShort
+    3300008: face_T6
+    3300010: face_T7
+    3300012: HairB_HeadVeryShort1
+    3300014: HairB_HeadVeryShort2
+    3300016: pCylinder1
+    3300018: HairB_AllBack
+    3300020: HairB_PigTailA
+    3300022: HairB_PigTailA_1
+    3300024: HairB_PigTailB
+    3300026: HairB_PigTailB_1
+    3300028: HairB_PigTailB_2
+    4300000: face_T5
+    4300002: hair_b
+    4300004: hair_c
+    4300006: HairB_HeadVeryShort
+    4300008: face_T6
+    4300010: face_T7
+    4300012: HairB_HeadVeryShort2
+    4300014: HairB_HeadVeryShort1
+    4300016: pCylinder1
+    4300018: HairB_AllBack
+    4300020: HairB_PigTailA
+    4300022: HairB_PigTailA_1
+    4300024: HairB_PigTailB
+    4300026: HairB_PigTailB_1
+    4300028: HairB_PigTailB_2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hair_uv
+    second: {fileID: 2100000, guid: 2e0b6976c18d45649851f2dacbd5c57d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 16.5
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

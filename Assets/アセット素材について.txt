@@ -1,0 +1,17 @@
+
+【使用したアセット素材】
+
+・PostProcessing
+レンダリング、イメージエフェクト効果スクリプト
+
+・Game Asset Studio
+キャラクターモーション素材
+
+・TSF
+トゥーンシェーダースクリプト
+
+・UnityChanアセット　ViewingDirection
+　UnityChanアセットのスクリプトのViewingDirectionを用途に合わせて改変
+
+・StandardAssets
+Unity既存のアセットを使用。
