@@ -12,5 +12,8 @@ Unity研究用に制作した3Dキャラクタークリエイトツールの試�
 Unityプロジェクトファイル内の説明.txtにScriptデータの詳細を記述してあります。
 
 MAYAを使用したキャラクターモデルの頭部
-<img src="https://github.com/ynsan/CC_00/blob/master/Sp_ss324maya.png">
+<img src="https://github.com/ynsan/CC_00/blob/master/Sp_ss324maya.png"><br>
 ローポリですが、きれいに見せることを意識してモデリングをしました。
+
+【ビルドゲームデータ】
+https://drive.google.com/open?id=1L3VK3OLdcy_Kr06hRh9H6yJFwpuHSwlI
